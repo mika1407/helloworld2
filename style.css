@@ -1,0 +1,83 @@
+body {
+  background-color: ivory;
+  color: gray;
+  margin: 15px;
+}
+
+h1 {
+  font-size: 35px;
+  border: solid 2px;
+  padding: 5px;
+  width: 50%;
+}
+
+p {
+  font-size: 16px;
+  color: darkblue;
+  background-color: lavender;
+}
+
+ol {
+  list-style-type:lower-alpha;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.profile-image {
+  border: dotted 2px;
+  width: 200px;
+  height: 200px;
+}
+
+.ekadiv {
+  background-color: #DBF9FC;
+}
+
+a {
+  background-color: darkblue;
+  color:#fff;
+  border: black 1px solid;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 2px;
+}
+
+.kuva1 {
+  padding: 10px;
+}
+
+figure {
+  border: thin #c0c0c0 solid;
+  padding: 5px;
+  max-width: 250px;
+  margin: 5px;
+}
+
+img {
+  width: 230px;
+  height: 170px;
+  margin: 10px;
+}
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+.ekadiv p {
+  padding: 5px;
+}
+
+.ekadiv  {
+margin-bottom: 20px;
+}
+
+label {
+  padding: 5px;
+}
+
